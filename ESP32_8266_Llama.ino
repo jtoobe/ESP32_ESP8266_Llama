@@ -8,7 +8,7 @@ int Buzzer = 4;           //    (D2)
 int Llama_analog = 0;    //     (A0)
 int Llama_digital = 5;   //     (D1)
 
-// Para ESP32
+// Para ESP32  (NO usar pin 21 ni 22)
 //int Buzzer = 32;        
 //int Llama_analog = 4;    
 //int Llama_digital = 2;    
